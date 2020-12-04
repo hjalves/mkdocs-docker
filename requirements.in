@@ -1,0 +1,8 @@
+mkdocs==1.1.2
+mkdocs-material==6.1.6
+mkdocs-exclude==1.0.2
+mkdocs-minify-plugin==0.3.0
+markdown-include==0.6.0
+plantuml-markdown==3.4.1
+fabric==2.5
+patchwork==1.0.1
